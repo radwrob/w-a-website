@@ -155,6 +155,10 @@ a{
     padding:0 96px 30px
 }
 
+.logo__img{
+    height: 50px;
+}
+
 .logo__header{
     padding: 20px
 }
@@ -181,10 +185,11 @@ a{
     font-style: italic;
     margin:0;
     text-transform: lowercase;
+    text-align: center;
     opacity: 0.75
 }
 
-.name__header:after,.section__header:after{
+.home__header:after,.section__header:after{
     content:'';
     display:block;
     border-bottom:4px solid #447799;
