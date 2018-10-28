@@ -15,6 +15,10 @@ jQuery(function ($)
         $.scrollTo($('#oferta'), 1000);
     });
     
+    $('#link_kariera').click(function () {
+        $.scrollTo($('#kariera'), 1000);
+    });      
+    
     $('#link_kontakt').click(function () {
         $.scrollTo($('#kontakt'), 1000);
     });    

@@ -222,12 +222,12 @@ a{
 }
 
 .scrollup{
-    width: 64px;
-    height: 64px;
+    width: 32px;
+    height: 32px;
     text-decoration: none;
     background: url("../img/up.png") no-repeat 0px 0px;
     position: fixed;
-    right: 50px;
-    bottom: 50px;
+    right: 25px;
+    bottom: 25px;
     display: none;
 }
