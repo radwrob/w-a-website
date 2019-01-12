@@ -94,6 +94,21 @@ a{
     font-size: 20px;
 }
 
+.rodo{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.rodo a{
+    color:black;
+    text-decoration:none
+}
+
+.rodo a:hover{
+    color:#333333;
+}
+
 .section{
     padding:40px 0
 }
