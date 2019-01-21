@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <sitemap>
-      <loc>https://wa-transporter.com</loc>
-      <lastmod>2019-01-01T12:01:00.889Z</lastmod>
-   </sitemap>
-</sitemapindex>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://wa-transporter.com/</loc>
+  <lastmod>2019-01-12T10:25:02+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://wa-transporter.com/en/</loc>
+  <lastmod>2018-12-29T21:51:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wa-transporter.com/download/ceidg.pdf</loc>
+  <lastmod>2019-01-12T10:17:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wa-transporter.com/download/licencja_transportowa.pdf</loc>
+  <lastmod>2019-01-12T10:17:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wa-transporter.com/download/licencja_spedycyjna.pdf</loc>
+  <lastmod>2019-01-12T10:17:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wa-transporter.com/download/ubezpieczenie_oc.pdf</loc>
+  <lastmod>2019-01-12T10:17:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wa-transporter.com/download/kierowca_ogloszenie.pdf</loc>
+  <lastmod>2018-10-29T18:26:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wa-transporter.com/download/spedytor_ogloszenie.pdf</loc>
+  <lastmod>2018-10-29T18:26:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wa-transporter.com/download/rodo_wa.pdf</loc>
+  <lastmod>2019-01-12T10:11:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
